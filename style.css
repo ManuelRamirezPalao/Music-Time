@@ -1,0 +1,17 @@
+body{
+	background-image: url('https://cdn.pixabay.com/photo/2015/12/11/14/04/texture-1088149__340.jpg')
+}
+.nav-wrapper{
+background-color: rgb(95, 222, 87); 
+margin-top: 3%;
+margin-left: 3%;
+margin-right: 3%; 
+}
+.card{
+margin-left: 1%;
+margin-right: 1%; 
+}
+nav{
+	background-color:  rgb(95, 222, 87); 
+
+}
